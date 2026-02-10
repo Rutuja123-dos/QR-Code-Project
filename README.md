@@ -10,7 +10,7 @@ A Python-based utility to generate high-quality, customized QR codes. This proje
 ## 🛠️ Tech Stack
 * **Language:** Python 3.13
 * **Libraries:** * `qrcode`: For generating the matrix.
-    * `Pillow (PIL)`: For image processing and saving.
+    * `Pillow (PIL)`: For image processing and saving. 
 
 ## 📂 Project Structure
 * `Qr code.py`: The main script containing the logic.
