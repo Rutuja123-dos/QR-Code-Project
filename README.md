@@ -1,4 +1,4 @@
-# 📱 Professional QR Code Generator
+## 📱 Professional QR Code Generator
 
 A Python-based utility to generate high-quality, customized QR codes. This project was developed to bridge the gap between physical networking and digital professional profiles by creating a scannable link to my LinkedIn.
 
