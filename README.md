@@ -6,7 +6,7 @@ A Python-based utility to generate high-quality, customized QR codes. This proje
 * **Custom Styling:** Adjusts border size, box size, and versioning.
 * **Error Correction:** Uses `ERROR_CORRECT_H` (High) to ensure the QR remains scannable even if slightly damaged or covered.
 * **Image Generation:** Utilizes the `Pillow` library to render the final QR as a `.png` file.
-
+ 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.13
 * **Libraries:** * `qrcode`: For generating the matrix.
